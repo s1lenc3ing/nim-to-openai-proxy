@@ -88,8 +88,9 @@ const MODEL_MAPPING = {
   'google-lighter': 'poolside/laguna-xs-2.1',
   'glm-5.3': 'z-ai/glm-5.3',
   'glm-flash': 'z-ai/glm-5-3-flash',
-  'min-max3.1-flash': 'minimaxai/minimax-m3.1-flash',
-  'mistral-large4': 'mistralai/mistral-large-4-1t-a52b',
+  'min-max-3.1-flash': 'minimaxai/minimax-m3.1-flash',
+  'mistral-large-4': 'mistralai/mistral-large-4-1t-a52b',
+  'kimi-3.1-pro': 'moonshotai/kimi-k3.1-pro'
 
   // Vision-Modelle — nur Modelle, die erfolgreich auf Chat-Completions antworten.
   // Getestet am: 2026-09-17 — meta/llama-3.2-11b-vision-instruct: HTTP 200 ✓
