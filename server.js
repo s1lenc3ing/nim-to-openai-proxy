@@ -89,7 +89,7 @@ const MODEL_MAPPING = {
   'glm-5.3': 'z-ai/glm-5.3',
   'glm-flash': 'z-ai/glm-5-3-flash',
   'min-max-3.1-flash': 'minimaxai/minimax-m3.1-flash',
-  'mistral-large-4': 'mistralai/mistral-large-4-1t-a52b',
+  'mistral-large-4': 'mistralai/mistral-large-4',
   'kimi-3.1-pro': 'moonshotai/kimi-k3.1-pro',
 
   // Vision-Modelle — nur Modelle, die erfolgreich auf Chat-Completions antworten.
@@ -111,7 +111,7 @@ const DEFAULT_MODEL = 'google/diffusiongemma-26b-a4b-it';
 const FALLBACK_MODELS = [
   'google/gemma-4-31b-it',
   'nvidia/nemotron-3-ultra-550b-a55b',
-  'mistralai/mistral-large-4-1t-a52b',
+  'mistralai/mistral-large-4',
   'nvidia/nemotron-3-super-120b-a12b'
 ];
 
